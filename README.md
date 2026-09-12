@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**vikas70521-c<div align="center">
+<div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=200&section=header&text=Vikas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Aspiring%20ML%20Engineer&descAlignY=58&descAlign=50)
 
@@ -16,7 +13,54 @@
 
 ---
 
+### 🔗 Connect With Me
 
+<table>
+<tr>
+<td align="center" width="96">
+<a href="https://linkedin.com/in/vikas-kumar-b70110324" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="https://github.com/vikas70521-code" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="mailto:vikas70521@gmail.com" target="_blank">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="INSTAGRAM_URL_HERE" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="DISCORD_INVITE_HERE" target="_blank">
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="PORTFOLIO_URL_HERE" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="KAGGLE_URL_HERE" target="_blank">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
+</a>
+</td>
+<td align="center" width="96">
+<a href="RESUME_LINK_HERE" target="_blank">
+<img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/>
+</a>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🧠 Tech Stack
 
@@ -115,16 +159,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer)ode/vikas70521-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A78BFA&height=120&section=footer)
