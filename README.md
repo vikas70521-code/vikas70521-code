@@ -380,7 +380,7 @@ Building practical AI/ML projects while developing strong foundations in softwar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikas70521-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikas70521-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 
 </div>
 
