@@ -33,21 +33,6 @@
 </a>
 </td>
 <td align="center" width="96">
-<a href="INSTAGRAM_URL_HERE" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="DISCORD_INVITE_HERE" target="_blank">
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/>
-</a>
-</td>
-<td align="center" width="96">
-<a href="PORTFOLIO_URL_HERE" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
-</a>
-</td>
-<td align="center" width="96">
 <a href="KAGGLE_URL_HERE" target="_blank">
 <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/>
 </a>
@@ -64,26 +49,15 @@
 
 ### 🧠 Tech Stack
 
-**GenAI / LLMs**
-<table><tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="55" height="55" alt="OpenAI"/></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="55" height="55" alt="Gemini"/></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" height="55" alt="Claude"/></td>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/ollama/000000" width="55" height="55" alt="Ollama"/></td>
-</tr></table>
-
 **Languages**
 <table><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
 </tr></table>
 
 **AI & ML**
 <table><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn"/></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td>
 </tr></table>
 
 **Data Science**
@@ -91,12 +65,6 @@
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy"/></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas"/></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55" alt="Matplotlib"/></td>
-</tr></table>
-
-**Web & App Dev**
-<table><tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask"/></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
 </tr></table>
 
 **Cloud & Infra**
