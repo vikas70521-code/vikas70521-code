@@ -67,11 +67,6 @@
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/plotly/3F4F75" width="55" height="55" alt="Matplotlib"/></td>
 </tr></table>
 
-**Cloud & Infra**
-<table><tr>
-<td align="center" width="96"><img src="https://cdn.simpleicons.org/render/46E3B7" width="55" height="55" alt="Render"/></td>
-</tr></table>
-
 **Databases**
 <table><tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td>
