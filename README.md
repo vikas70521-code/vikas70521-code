@@ -5,28 +5,27 @@
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+practical+Machine+Learning+systems;Learning+Software+Engineering+%26+AI%2FML;Turning+data+into+useful+products;Engineering+with+curiosity%2C+discipline+%26+consistency" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+practical+Machine+Learning+projects;Learning+AI%2FML+with+a+strong+engineering+foundation;Turning+data+into+useful+insights;Learning+with+curiosity%2C+discipline+%26+consistency" alt="Typing SVG"/>
 </a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%2FML-6D28D9?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/Student-Computer%20Science-4C1D95?style=for-the-badge&labelColor=111827"/>
+<img src="https://img.shields.io/badge/Student-5th%20Semester-4C1D95?style=for-the-badge&labelColor=111827"/>
 <img src="https://img.shields.io/badge/Location-India-312E81?style=for-the-badge&labelColor=111827"/>
 
 <br><br>
 
 <a href="https://github.com/vikas70521-code">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/vikas70521-code">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
@@ -39,64 +38,79 @@
 
 ---
 
-# About
+## About
 
-I am a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, focused on building a strong foundation in software engineering, machine learning, data analysis, and practical product development.
+I am a **5th-semester Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at Sandip University.
 
-My current engineering focus is on transforming theoretical concepts into **working, maintainable, and useful software systems**. I enjoy working with Python, data, machine learning algorithms, APIs, databases, and developer tooling while continuously improving my problem-solving and engineering practices.
+I am currently focused on building strong foundations in **Python, Data Analysis, Machine Learning, SQL, and Data Structures & Algorithms**, while improving my software engineering and problem-solving skills.
 
-I approach AI/ML from a product-engineering perspective: understand the problem, prepare reliable data, build the right model, evaluate it properly, and turn the result into something usable.
+My current goal is to become a **Machine Learning Engineer** by building practical projects, understanding ML concepts deeply, and learning how to take models from data preparation to evaluation and usable applications.
 
-### Engineering Focus
+I believe in learning by building, practicing consistently, and understanding the reasoning behind the code rather than simply copying implementations.
 
-- 🧠 Machine Learning & Data Science
-- 🐍 Python Development
-- 📊 Data Analysis & Feature Engineering
-- ⚙️ Scikit-learn & ML Pipelines
-- 🌐 Full-Stack Application Development
-- 🗄️ SQL & Database Systems
-- 🔧 Software Engineering Fundamentals
-- 🚀 Product-oriented AI/ML development
+---
 
-### Open To
+## Engineering Focus
 
-- Paid ML / AI internships
-- Software engineering internships
-- Machine Learning projects
-- Open-source collaboration
-- Real-world engineering opportunities
+🧠 Machine Learning & Data Science
+
+🐍 Python Development
+
+📊 Data Analysis & Visualization
+
+⚙️ Scikit-learn & ML Pipelines
+
+🔧 Feature Engineering & Data Preprocessing
+
+🗄️ SQL & Database Fundamentals
+
+💻 Data Structures & Algorithms
+
+🚀 Building Practical ML Projects
+
+---
+
+## Open To
+
+* Paid Machine Learning / AI internships
+* Software engineering internships
+* Machine Learning projects
+* Open-source collaboration
+* Real-world engineering opportunities
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,sql&theme=dark"/>
 </p>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql&theme=dark"/>
-</p>
-
-### AI / ML & Data
+## Data Analysis & Visualization
 
 <p>
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 </p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn`
+**NumPy · Pandas · Matplotlib · Seaborn**
 
-### Cloud, DevOps & Tooling
+## Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+</p>
+
+**Scikit-learn · Machine Learning · Feature Engineering · Preprocessing · Model Evaluation**
+
+## Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,sqlite,mysql&theme=dark"/>
+</p>
+
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,kaggle,linux&theme=dark"/>
@@ -106,163 +120,119 @@ I approach AI/ML from a product-engineering perspective: understand the problem,
 
 # AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Python | 🟣 Intermediate | Data manipulation, scripting, ML workflows |
-| NumPy | 🟣 Intermediate | Numerical computing and array operations |
-| Pandas | 🟣 Intermediate | Data cleaning, transformation and analysis |
-| Data Visualization | 🟣 Intermediate | Matplotlib, Seaborn and exploratory analysis |
-| Scikit-learn | 🟣 Intermediate | Classification, regression, preprocessing and pipelines |
-| Feature Engineering | 🟣 Intermediate | Feature construction, transformation and encoding |
-| Machine Learning | 🟣 Intermediate | Supervised learning and model evaluation |
-| SQL | 🟣 Learning | Database querying and data-oriented workflows |
-| Deep Learning | 🔵 Exploring | Building foundational knowledge |
-| Generative AI | 🔵 Exploring | Understanding modern AI application development |
+| Domain                       | Proficiency     | Details                                                 |
+| ---------------------------- | --------------- | ------------------------------------------------------- |
+| Python                       | 🟣 Intermediate | Data manipulation, scripting and ML workflows           |
+| NumPy                        | 🟣 Intermediate | Numerical computing and array operations                |
+| Pandas                       | 🟣 Intermediate | Data cleaning, transformation and analysis              |
+| Data Visualization           | 🟣 Intermediate | Matplotlib, Seaborn and exploratory analysis            |
+| Scikit-learn                 | 🟣 Intermediate | Classification, regression, preprocessing and pipelines |
+| Feature Engineering          | 🟣 Intermediate | Feature construction, transformation and encoding       |
+| Machine Learning             | 🟣 Intermediate | Supervised learning and model evaluation                |
+| SQL                          | 🔵 Learning     | Database querying and data-oriented workflows           |
+| Data Structures & Algorithms | 🔵 Learning     | Problem solving and algorithmic thinking                |
+| Deep Learning                | 🔵 Exploring    | Building foundational knowledge                         |
 
 ---
 
 # Featured Projects
 
 <details>
+
 <summary><b>🚢 Titanic ML Prediction</b></summary>
+
+<br>
 
 ### Titanic Machine Learning Prediction
 
-A complete machine-learning workflow built around the Titanic dataset, covering exploratory data analysis, feature engineering, preprocessing, model training, evaluation, and prediction.
+A practical machine-learning project using the Titanic dataset to understand the complete workflow of a classification problem.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
-| **Scale** | 891 training records |
-| **Performance** | ~83% validation accuracy with Logistic Regression |
-| **Security** | Input validation and controlled prediction workflow |
-| **Impact** | End-to-end practical classification workflow |
-| **Repository** | [View Repository](https://github.com/vikas70521-code/titanic-ml-prediction) |
+| Category    | Details                                                                     |
+| ----------- | --------------------------------------------------------------------------- |
+| Stack       | Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn               |
+| Dataset     | 891 passenger records                                                       |
+| Best Result | ~83% validation accuracy with Logistic Regression                           |
+| Type        | Binary Classification                                                       |
+| Repository  | [View Repository](https://github.com/vikas70521-code/titanic-ml-prediction) |
 
 ### Engineering Scope
 
-- Exploratory Data Analysis
-- Missing-value treatment
-- Feature engineering
-- Family-size analysis
-- Age-group construction
-- Categorical encoding
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Model evaluation
-- User-input prediction workflow
+* Exploratory Data Analysis
+* Missing-value treatment
+* Feature engineering
+* Family-size construction
+* IsAlone feature
+* Age-group construction
+* Categorical encoding
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Model evaluation
+* User-input prediction workflow
 
 </details>
 
+---
+
 <details>
+
 <summary><b>📺 Netflix Data Analysis</b></summary>
+
+<br>
 
 ### Netflix Data Analysis
 
-An exploratory data-analysis project focused on understanding patterns within Netflix content using Python data-analysis techniques.
+An exploratory data-analysis project focused on discovering patterns and insights within Netflix content using Python data-analysis techniques.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · Pandas · NumPy · Matplotlib · Seaborn |
-| **Scale** | Netflix content dataset |
-| **Performance** | Data-driven exploratory analysis |
-| **Security** | Local analytical workflow |
-| **Impact** | Practical experience with real-world data exploration |
-| **Repository** | [View GitHub Projects](https://github.com/vikas70521-code) |
+| Category   | Details                                        |
+| ---------- | ---------------------------------------------- |
+| Stack      | Python · Pandas · NumPy · Matplotlib · Seaborn |
+| Type       | Exploratory Data Analysis                      |
+| Focus      | Data cleaning, analysis and visualization      |
+| Repository | View GitHub Projects                           |
 
 ### Engineering Scope
 
-- Data cleaning
-- Missing-value analysis
-- GroupBy operations
-- Aggregation
-- Distribution analysis
-- Data visualization
-- Exploratory insights
+* Data cleaning
+* Missing-value analysis
+* GroupBy operations
+* Aggregation
+* Distribution analysis
+* Data visualization
+* Exploratory insights
 
 </details>
 
+---
+
 <details>
+
 <summary><b>🏠 House Price Prediction</b></summary>
+
+<br>
 
 ### House Price Prediction
 
-A regression-focused machine-learning project designed to understand relationships between multiple features and a continuous target variable.
+A regression-focused machine-learning project built to understand relationships between multiple features and a continuous target variable.
 
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · Pandas · NumPy · Scikit-learn |
-| **Scale** | 4,600+ observations |
-| **Performance** | Regression evaluated using MAE and R² |
-| **Security** | Structured preprocessing workflow |
-| **Impact** | Practical understanding of regression modeling |
-| **Repository** | [View GitHub Projects](https://github.com/vikas70521-code) |
-
-### Engineering Scope
-
-- Feature analysis
-- Data preprocessing
-- Train/test splitting
-- Multiple Linear Regression
-- Regression evaluation
-- MAE
-- R² score
-- Model interpretation
-
-</details>
-
-<details>
-<summary><b>🎓 EduTrack — Student Marks Management System</b></summary>
-
-### EduTrack
-
-A lightweight student marks management application built with Flask and SQLite.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · Flask · SQLite · HTML · CSS |
-| **Scale** | CRUD-based academic application |
-| **Performance** | Lightweight local web application |
-| **Security** | Server-side application architecture |
-| **Impact** | Practical full-stack and database experience |
-| **Repository** | [View GitHub Profile](https://github.com/vikas70521-code) |
+| Category   | Details                                |
+| ---------- | -------------------------------------- |
+| Stack      | Python · Pandas · NumPy · Scikit-learn |
+| Dataset    | 4,600+ observations                    |
+| Type       | Regression                             |
+| Evaluation | MAE · R²                               |
+| Focus      | Multiple Linear Regression             |
 
 ### Engineering Scope
 
-- Flask backend
-- SQLite database
-- Student record management
-- Marks management
-- HTML templates
-- CRUD operations
-- Web application architecture
-
-</details>
-
-<details>
-<summary><b>✋ Computer Vision Volume Controller</b></summary>
-
-### Hand Gesture Volume Controller
-
-A computer-vision application using webcam-based hand/finger tracking to control system volume through gestures.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python · OpenCV |
-| **Scale** | Real-time webcam interaction |
-| **Performance** | Real-time gesture processing |
-| **Security** | Local webcam processing |
-| **Impact** | Practical computer-vision automation |
-| **Repository** | [View GitHub Profile](https://github.com/vikas70521-code) |
-
-### Engineering Scope
-
-- Webcam processing
-- Hand/finger movement detection
-- Gesture-based interaction
-- Real-time processing
-- System automation
+* Feature analysis
+* Data preprocessing
+* Train/test splitting
+* Multiple Linear Regression
+* Regression evaluation
+* MAE
+* R² score
+* Model interpretation
 
 </details>
 
@@ -270,27 +240,28 @@ A computer-vision application using webcam-based hand/finger tracking to control
 
 # Experience
 
-### AI / ML Engineering — Independent Projects
+## AI / ML Learning & Independent Projects
 
 **2026 — Present**
 
-Building practical AI/ML projects while developing strong foundations in software engineering, data analysis, machine learning, and application development.
+Developing practical skills in machine learning and data analysis through structured learning, hands-on projects, and regular coding practice.
 
-**Scope of Work**
+### Current Work
 
-- Build end-to-end machine-learning workflows
-- Perform exploratory data analysis
-- Implement preprocessing pipelines
-- Engineer and transform features
-- Train and compare ML models
-- Evaluate models using appropriate metrics
-- Develop practical Python applications
-- Work with databases and web frameworks
-- Maintain projects using Git and GitHub
+* Building machine-learning workflows
+* Performing exploratory data analysis
+* Practicing data preprocessing
+* Learning feature engineering
+* Training and comparing ML models
+* Evaluating models using appropriate metrics
+* Working with Python data-science libraries
+* Practicing SQL
+* Improving DSA and problem-solving skills
+* Maintaining projects using Git and GitHub
 
-**Skills**
+### Skills
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `SQL` `Flask` `Git` `GitHub`
+**Python · Pandas · NumPy · Scikit-learn · SQL · Matplotlib · Seaborn · Git · GitHub**
 
 ---
 
@@ -298,41 +269,37 @@ Building practical AI/ML projects while developing strong foundations in softwar
 
 <div align="center">
 
-| Recognition | Details |
-|:---:|:---|
-| 🎓 Academic | B.Tech CSE with AI/ML specialization |
-| 📚 Competitive Programming | 40+ Python problems solved on HackerRank |
-| 💻 Coding Practice | 800+ problems solved on CodeChef |
-| 🧠 Machine Learning | Completed multiple practical ML projects |
-| 🐍 Python | Kaggle Python certification |
-| 📊 Data Science | Hands-on EDA, preprocessing and feature engineering |
-| 🚀 Project Development | Built ML, web, database and computer-vision projects |
+| Recognition         | Details                                             |
+| ------------------- | --------------------------------------------------- |
+| 🎓 Academic         | B.Tech CSE with AI/ML specialization                |
+| 📚 HackerRank       | 41+ Python problems solved                          |
+| 💻 CodeChef         | 800+ problems solved                                |
+| 🧠 Machine Learning | Completed practical ML projects                     |
+| 🐍 Python           | Kaggle Python Certificate                           |
+| 📊 Data Science     | Hands-on EDA, preprocessing and feature engineering |
+| 🚀 GitHub           | Practical ML and data-analysis projects             |
 
 </div>
 
 ---
 
-# Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Learning-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Learning-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Course-312E81?style=for-the-badge"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Learning-6D28D9?style=for-the-badge&logo=cisco&logoColor=white"/>
+# Certifications & Learning
 
 ### Kaggle
 
 <img src="https://img.shields.io/badge/Kaggle-Python%20Certificate-4C1D95?style=for-the-badge&logo=kaggle&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Course%20Learning-312E81?style=for-the-badge"/>
+
+### Current Learning
+
+* Machine Learning
+* Scikit-learn
+* Feature Engineering
+* SQL
+* Data Structures & Algorithms
 
 ---
 
@@ -370,7 +337,7 @@ Building practical AI/ML projects while developing strong foundations in softwar
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=vikas70521-code&theme=transparent&hide_border=true&ring=8B5CF6&fire=6D28D9&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=vikas70521-code&theme=transparent&hide_border=true&ring=8B5CF6&fire=6D28D9&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8"/>
 
 </div>
 
@@ -380,7 +347,7 @@ Building practical AI/ML projects while developing strong foundations in softwar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikas70521-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vikas70521-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -408,31 +375,43 @@ Building practical AI/ML projects while developing strong foundations in softwar
 
 # Current Focus
 
-```yaml
-Learning:
-  - Machine Learning
-  - Advanced Scikit-learn
-  - Feature Engineering
-  - SQL
-  - Data Structures & Algorithms
-  - Software Engineering
+### Learning
 
-Building:
-  - End-to-end ML projects
-  - Data analysis projects
-  - Computer vision applications
-  - Full-stack academic applications
+* Machine Learning
+* Advanced Scikit-learn
+* Feature Engineering
+* SQL
+* Data Structures & Algorithms
+* Software Engineering Fundamentals
 
-Exploring:
-  - Deep Learning
-  - MLOps
-  - Generative AI
-  - Cloud technologies
-  - Production ML systems
+### Building
 
-Open To:
-  - Paid ML internships
-  - AI/ML engineering opportunities
-  - Software engineering internships
-  - Open-source collaboration
-  - Real-world technical projects
+* End-to-end ML projects
+* Data analysis projects
+* Regression and classification projects
+* Practical Python applications
+
+### Exploring
+
+* Deep Learning
+* MLOps
+* Production ML systems
+* Cloud technologies
+
+### Open To
+
+* Paid ML internships
+* AI/ML engineering opportunities
+* Software engineering internships
+* Open-source collaboration
+* Real-world technical projects
+
+---
+
+<div align="center">
+
+### 🚀 Learning. Building. Improving.
+
+**Focused on becoming a strong Machine Learning Engineer.**
+
+</div>
